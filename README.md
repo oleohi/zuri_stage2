@@ -1,5 +1,4 @@
 # zuri_stage2
-DEMO
-
-<img src="https://github.com/oleohi/zuri_stage2/blob/master/zuri_gif.gif" alt="My Project GIF" width="500" height="600">
+# DEMO
+![Zuri Stage 2 app](https://github.com/oleohi/zuri_stage2/blob/master/zuri_stage2_demo.gif)
 
